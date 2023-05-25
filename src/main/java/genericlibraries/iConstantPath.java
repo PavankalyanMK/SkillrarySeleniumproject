@@ -1,0 +1,9 @@
+package genericlibraries;
+
+public interface iConstantPath {
+	
+	String PROPERTIES_PATH = "./src/test/resources/commonData.properties";
+	String EXCEL_PATH ="./src/test/resources/Testdata.xlsx";
+
+}
+
